@@ -18,9 +18,9 @@ A simple and responsive web application to browse and search for recipes. Built 
 
 ## 📸 Screenshots
 
-| Home | Recipes || Recipe Details |
-|------|----------------|
-| ![Home](Home.png) | ![Recipies](Recipies.png) |![Details](Recipie_Details.png) |
+| Home | Recipes | Recipe Details |
+|------|---------|----------------|
+| ![Home](home.png) | ![Recipes](Recipes.png) | ![Details](Recipie_Details.png) |
 
 > 📌 Add actual screenshots to a `screenshots` folder
 
@@ -29,5 +29,6 @@ A simple and responsive web application to browse and search for recipes. Built 
 1. Clone the repository:
    ```bash
    git clone https://github.com/sohankr03/recipeApp.git
+   ```
 
 > Note: This project uses the TheMealDB API to retrieve delicious recipes. Explore the API at [TheMealDB](https://www.themealdb.com/).
