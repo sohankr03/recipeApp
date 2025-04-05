@@ -20,7 +20,7 @@ A simple and responsive web application to browse and search for recipes. Built 
 
 | Home | Recipes | Recipe Details |
 |------|---------|----------------|
-| ![Home](home.png) | ![Recipes](Recipes.png) | ![Details](Recipie_Details.png) |
+| ![Home](Home.png) | ![Recipes](Recipes.png) | ![Details](Recipie_Details.png) |
 
 > 📌 Add actual screenshots to a `screenshots` folder
 
