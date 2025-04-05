@@ -1,30 +1,44 @@
-# 🍽️ Recipe App
+<div align="center">
+  <h1>🍽️ Recipe Delight</h1>
+  <p>Discover delicious recipes with ease!</p>
+</div>
 
-A simple and responsive web application to browse and search for recipes. Built using **HTML**, **CSS**, and **JavaScript**.
+ # ✨ Features
 
-## 🔥 Features
+*   🔍 **Smart Search:** Find recipes by keyword.
+*   📖 **Detailed Views:** Explore ingredients and instructions.
+*   📱 **Responsive Design:** Looks great on any device.
+*   📡 **TheMealDB API:** Powered by a vast recipe database.
 
-- Search recipes by keyword
-- View recipe details with ingredients and instructions
-- Clean, modern, and responsive UI
-- Fetches recipes using the TheMealDB API
 
-## 🛠️ Tech Stack
+# 🚀 Tech Stack
 
-- HTML
-- CSS
-- JavaScript
-- TheMealDB API
+*   **HTML5:** Semantic structure.
+*   **CSS3:** Beautiful styling & responsiveness.
+*   **JavaScript:** Dynamic functionality.
+*   **TheMealDB API:** Recipe data source.
+## 🖼️ Screenshots
 
-## 📸 Screenshots
+<table align="center">
+  <tr>
+    <td>
+      <b>Home</b><br>
+      <img src="Home.png" alt="Home" width="250">
+    </td>
+    <td>
+      <b>Recipes</b><br>
+      <img src="Recipes.png" alt="Recipes" width="250">
+    </td>
+    <td>
+      <b>Recipe Details</b><br>
+      <img src="Recipie_Details.png" alt="Recipe Details" width="250">
+    </td>
+  </tr>
+</table>
 
-| Home | Recipes | Recipe Details |
-|------|---------|----------------|
-| ![Home](Home.png) | ![Recipes](Recipes.png) | ![Details](Recipie_Details.png) |
+<br>
 
-> 📌 Add actual screenshots to a `screenshots` folder
-
-## 🚀 Getting Started
+# 🚀 Getting Started
 
 1. Clone the repository:
    ```bash
